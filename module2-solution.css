@@ -16,6 +16,7 @@
   flex: 50%;
   border:3px black solid;
   padding-top:0px;
+  padding-right:0px;
 }
 
 .flex-item-right {
@@ -23,9 +24,9 @@
   padding: 15px;
   flex: 50%;
   border:3px black solid;
+  padding-right:0px;
   padding-top:0px;
 }
-
 /* Responsive layout - makes a one column-layout instead of two-column layout */
 @media (max-width: 991px), @media(min-width:767px)
  {
