@@ -45,6 +45,7 @@ h1{
 	font-weight:bold;
 	font-family:"Comic Sans MS";
 	margin:0px 0px 10px 310px;
+	float:right;
 	}
 #p2{
 	border:3px black solid;
@@ -54,6 +55,7 @@ h1{
 	font-weight:bold;
 	font-family:"Comic Sans MS";
 	margin:0px 0px 10px 310px;
+	float:right;
 }
 #p3{
 	border:3px black solid;
@@ -63,4 +65,5 @@ h1{
 	font-weight:bold;
 	font-family:"Comic Sans MS";
 	margin:0px 0px 10px 310px;
+	float:right;
 }
