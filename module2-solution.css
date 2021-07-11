@@ -1,7 +1,7 @@
 * {
   box-sizing: border-box;
-  margin:10px 15px 40px 10px;
-
+  margin:0px 15px 40px 10px;
+  padding:0px;
 }
 
 .flex-container {
@@ -14,14 +14,16 @@
   background-color:#D3D3D3;
   padding: 15px;
   flex: 50%;
-  border:5px black solid;
+  border:3px black solid;
+  padding-top:0px;
 }
 
 .flex-item-right {
   background-color:#D3D3D3;
   padding: 15px;
   flex: 50%;
-  border:5px black solid;
+  border:3px black solid;
+  padding-top:0px;
 }
 
 /* Responsive layout - makes a one column-layout instead of two-column layout */
@@ -33,4 +35,31 @@
 }
 h1{ 
   text-align: center;
+}
+#p1{
+	border:3px black solid;
+	width:130px;
+	text-align:center;
+	background-color:#d59898;
+	font-weight:bold;
+	font-family:"Comic Sans MS";
+	margin:0px 0px 10px 310px;
+	}
+#p2{
+	border:3px black solid;
+	width:130px;
+	text-align:center;
+	background-color:#c14543;
+	font-weight:bold;
+	font-family:"Comic Sans MS";
+	margin:0px 0px 10px 310px;
+}
+#p3{
+	border:3px black solid;
+	width:130px;
+	text-align:center;
+	background-color:#e5d198;
+	font-weight:bold;
+	font-family:"Comic Sans MS";
+	margin:0px 0px 10px 310px;
 }
